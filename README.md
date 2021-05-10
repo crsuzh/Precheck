@@ -13,13 +13,13 @@ brew install hugo
 - Create a local copy of the website were changes will be made.
 
 ```
-git clone --recurse-submodules git@github.com:crsuzh/SwissRN.git
+git clone --recurse-submodules git@github.com:crsuzh/Precheck.git
 ```
 
 or
 
 ```
-git clone --recurse-submodules https://github.com/crsuzh/SwissRN.git
+git clone --recurse-submodules https://github.com/crsuzh/Precheck.git
 ```
 
 ## Editing website
@@ -34,7 +34,7 @@ cd Precheck
 hugo server
 ```
 
-Page can be seen at http://localhost:1313/.
+Page can be seen at http://localhost:1313/Precheck/.
 
 ## Images
 
@@ -47,7 +47,7 @@ Images are in the folder `content/img`. Examples for correct paths are:
 - Run the command `hugo`. Die full webpage is created in the folder `docs`. To start from scratch, the two folders `docs` and `ressources` can be deleted when necessary (e.g. for a total cleanup when something is not working), as these folder and their content are always recreated with `hugo`. 
 
 ```
-cd SwissRN
+cd Precheck
 hugo
 ```
 
