@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on PRECHECK</title>
+    <title>Categories on PRECHECK: A checklist to evaluate COVID-19 preprints</title>
     <link>https://crsuzh.github.io/Precheck/categories/</link>
-    <description>Recent content in Categories on PRECHECK</description>
+    <description>Recent content in Categories on PRECHECK: A checklist to evaluate COVID-19 preprints</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://crsuzh.github.io/Precheck/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>https://crsuzh.github.io/Precheck/categories/r/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://crsuzh.github.io/Precheck/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://crsuzh.github.io/Precheck/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

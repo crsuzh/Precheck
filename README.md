@@ -44,7 +44,13 @@ Images are in the folder `content/img`. Examples for correct paths are:
 
 ## Publish webpage
 
-- Run the command `hugo`. Die full webpage is created in the folder `docs`. To start from scratch, the two folders `docs` and `ressources` can be deleted when necessary (e.g. for a total cleanup when something is not working), as these folder and their content are always recreated with `hugo`. 
+- Run the command `hugo`. Die full webpage is created in the folder `public` but a copy of this folders needs to be made named `docs` (requiredment by GitHub pages).
+
+```
+cp -a public docs
+```
+
+To start from scratch, the folders `docs`, `public` and `ressources` can safely be deleted when necessary (e.g. for a total cleanup when something is not working), as these folder and their content are always recreated with the command `hugo`.
 
 ```
 cd Precheck
