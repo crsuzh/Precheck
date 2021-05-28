@@ -4,7 +4,7 @@ Code for Precheck project website, live at https://crsuzh.github.io/Precheck/.
 ## HOWTO
 
 ## Preparation
-- The software hugo can be installed using brew. If brew is not installes in OS X, install homebrew first.
+- The software hugo can be installed using brew. If brew is not installed in OS X, install homebrew first.
 
 ```
 brew install hugo
@@ -26,9 +26,9 @@ git clone --recurse-submodules https://github.com/crsuzh/Precheck.git
 
 - Checkout last version with `git pull`
 
-- Global settings are in `config.yaml` as well as the menu items. See folder `content` additonal pages.
+- Global settings are in `config.yaml` as well as the menu items. See folder `content` additional pages and posts. The content of the front page is in `layouts/lists.html`
 
-- Start local webserver to see changes, assuming project folder is names Precheck.
+- Start the local webserver to see changes, assuming the project folder is named Precheck.
 ```
 cd Precheck
 hugo server
@@ -38,19 +38,18 @@ Page can be seen at http://localhost:1313/Precheck/.
 
 ## Images
 
-Images are in the folder `content/img`. Examples for correct paths are:
-- For `config.toml` use `./img/logo.jpg`.
-- Für other pagets in `content` use path `./../img/image.jpg`
+Images are in the folder `static/img`. Examples for correct paths are:
+- For other pages in `content` use path `../images/logo_uzh.png`
 
 ## Publish webpage
 
-- Run the command `hugo`. Die full webpage is created in the folder `public` but a copy of this folders needs to be made named `docs` (requiredment by GitHub pages).
+- Run the command `hugo`. Die full webpage is created in the folder `public`. However, a copy of this folders needs to be created named `docs` (requirement by GitHub pages).
 
 ```
 cp -a public docs
 ```
 
-To start from scratch, the folders `docs`, `public` and `ressources` can safely be deleted when necessary (e.g. for a total cleanup when something is not working), as these folder and their content are always recreated with the command `hugo`.
+To start building from scratch, the folders `docs`, `public` and `ressources` can safely be deleted when necessary (e.g. for a total cleanup when something is not working). These folders and their content will always be recreated with the command `hugo`.
 
 ```
 cd Precheck
@@ -63,7 +62,7 @@ hugo
 git status
 ```
 
-- Publish website in `docs` and changes in `content` or other files.
+- Publish website in `docs` with `git`. Do not forget to also submit all other changes as well.
 
 ```
 git add --all docs
@@ -72,4 +71,4 @@ git commit -m "my comment about the changes made."
 git push
 ```
 
-Now changes are online.
+Now changes are online and can be seen after a few minutes.
