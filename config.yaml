@@ -1,4 +1,5 @@
-baseurl: https://crsuzh.github.io/Precheck/
+baseurl: http://www.precheck.site/
+#baseurl: https://crsuzh.github.io/Precheck/
 languageCode: en-us
 title: "PRECHECK: A checklist to evaluate COVID-19 preprints"
 subtitle: Project website
