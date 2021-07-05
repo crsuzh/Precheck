@@ -15,8 +15,13 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
+    - name: Checklist
+    - name: Team
+      url: /team/
     - name: About
       url: /about/
+    - name: OSF Project
+      url: https://osf.io/nk4ta/
     #- name: OSF Project Page
     #  url: https://osf.io/nk4ta/
     #- name: Twitter
