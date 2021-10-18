@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PRECHECK: A checklist to evaluate COVID-19 preprints</title>
-    <link>http://www.precheck.site/</link>
-    <description>Recent content on PRECHECK: A checklist to evaluate COVID-19 preprints</description>
+    <title>Posts on PRECHECK: A checklist to evaluate COVID-19 preprints</title>
+    <link>http://www.precheck.site/posts/</link>
+    <description>Recent content in Posts on PRECHECK: A checklist to evaluate COVID-19 preprints</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Oct 2021 14:00:13 -0600</lastBuildDate><atom:link href="http://www.precheck.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 14:00:13 -0600</lastBuildDate><atom:link href="http://www.precheck.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invitations for external review sent</title>
       <link>http://www.precheck.site/2021/10/18/invitations-for-external-review-sent/</link>
@@ -55,25 +55,6 @@ Inspired by Tobias Wingen&amp;rsquo;s preprint (https://osf.io/7n3mj) showing th
       <guid>http://www.precheck.site/2021/04/12/project-kick-off-meeting/</guid>
       <description>The project Precheck started in April 2021 and ends in September 2022. We gratefully received a research grant by the UNIGE-UZH Joint Funding for Collaboration in Research and Teaching. The aim of this project is to assess the quality of preprints in research, for more informations see About.
 Two researchers will co-lead this project, Nora Turoman (University of Geneva) and Simon Schwab (University of Zurich). The project is supervised by Evie Vergauwe (University of Geneva), Leonhard Held and Eva Furrer (University of Zurich).</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.precheck.site/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>http://www.precheck.site/about/</guid>
-      <description>Precheck is a joint, interdisciplinary project by the University of Geneva and the Center for Reproducible Science (CRS) of the University of Zurich.
-This project is supported by a research grant from the UNIGE-UZH Joint Funding for Collaboration in Research and Teaching.</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>http://www.precheck.site/team/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>http://www.precheck.site/team/</guid>
-      <description>Project Team        Dr. Nora Turoman, University of Geneva     Dr. Simon Schwab, University of Zurich     Dr. Rachel Heyard, University of Zurich       Steering board        Prof. Dr. Evie Vergauwe, University of Geneva     Dr. Eva Furrer, University of Zurich     Prof.</description>
     </item>
     
   </channel>

@@ -13,7 +13,7 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  posts: /:year/:month/:day/:slug/
 menu:
   main:
     - name: Checklist
