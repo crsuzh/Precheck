@@ -17,6 +17,7 @@ permalinks:
 menu:
   main:
     - name: Checklist
+      url: https://osf.io/zth7b/
     - name: Team
       url: /team/
     - name: About
