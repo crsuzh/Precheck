@@ -43,7 +43,7 @@ Images are in the folder `static/img`. Examples for correct paths are:
 
 ## Publish webpage
 
-- Run the command `hugo`. Die full webpage is created in the folder `public`. However, a copy of this folders needs to be created named `docs` (requirement by GitHub pages).
+- Run the command `hugo`. The full webpage is created in the folder `public`. However, a copy of this folders needs to be created named `docs` (requirement by GitHub pages). (Do not simply replace delete the old docs folder, but rather update all the documents from public into `docs`, otherwise you will lose the CNAME file.)
 
 ```
 cp -a public docs
@@ -66,7 +66,7 @@ git status
 
 ```
 git add --all docs
-git add config.toml
+git add config.yaml
 git commit -m "my comment about the changes made."
 git push
 ```

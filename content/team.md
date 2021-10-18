@@ -7,6 +7,7 @@ title: Team
 | ------------- |:-------------:|
 | {{< figure src="../images/Nora_Turoman.jpg" alt="Nora Turoman" width="120px" >}} | [Dr. Nora Turoman](mailto:nora.turoman@unige.ch), University of Geneva|
 | {{< figure src="../images/Simon_Schwab.jpg" alt="Simon Schwab" width="120px" >}} | [Dr. Simon Schwab](mailto:simon.schwab@uzh.ch), University of Zurich |
+| {{< figure src="../images/Rachel_Heyard.png" alt="Rachel Heyard" width="120px" >}} | [Dr. Rachel Heyard](mailto:rachel.heyard@uzh.ch), University of Zurich |
 
 
 | Steering board        |            |
