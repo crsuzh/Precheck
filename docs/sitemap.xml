@@ -1,39 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.precheck.site/2022/02/01/drafting-and-discussing-final-checklist/</loc>
+    <lastmod>2022-02-01T14:00:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.precheck.site/posts/</loc>
+    <lastmod>2022-02-01T14:00:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.precheck.site/2021/12/01/evaluating-expert-survey-and-extending-checklist/</loc>
+    <lastmod>2021-12-01T14:00:13-06:00</lastmod>
+  </url>
+  
   <url>
     <loc>http://www.precheck.site/2021/10/18/invitations-for-external-review-sent/</loc>
     <lastmod>2021-10-18T14:00:13-06:00</lastmod>
-  </url><url>
-    <loc>http://www.precheck.site/posts/</loc>
-    <lastmod>2021-10-18T14:00:13-06:00</lastmod>
-  </url><url>
-    <loc>http://www.precheck.site/</loc>
-    <lastmod>2021-10-18T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/2021/10/01/new-team-member/</loc>
     <lastmod>2021-10-01T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/2021/08/13/checking-the-checklist-internally/</loc>
     <lastmod>2021-08-13T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/2021/05/17/first-draft-of-checklist/</loc>
     <lastmod>2021-05-17T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/2021/05/03/first-preprint-themed-lecture-at-the-university-of-geneva/</loc>
     <lastmod>2021-05-03T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/2021/04/12/project-kick-off-meeting/</loc>
     <lastmod>2021-04-12T14:00:13-06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>http://www.precheck.site/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/team/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://www.precheck.site/tags/</loc>
   </url>
+  
 </urlset>
