@@ -112,7 +112,7 @@ By ‘access’, we mean whether you can look up and see the actual protocol, da
 
 # <span style="color:#8ECC7A">Limitations</span>
 
-- Are the limitations of the study addressed in the discussion/conclusion section?
+### Are the limitations of the study addressed in the discussion/conclusion section?
 
 
 <br>
