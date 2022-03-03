@@ -5,7 +5,7 @@ title:
 
 # <span style="color:#8ECC7A">Research question</span>
 
-- Is the research question/aim stated?
+### Is the research question/aim stated?
 
 
 
@@ -20,34 +20,35 @@ A study cannot be done without a research question/aim. A clear and precise rese
 
 # <span style="color:#8ECC7A">Study type</span>
 
-- Is the study type mentioned in the title, abstract, introduction, or methods?
+### Is the study type mentioned in the title, abstract, introduction, or methods?
 
 
 <details>
 <summary> <i><u>Why is this important?</u></i> </summary>
 For a study to be done well and to provide credible results, it has to be planned properly from the start, which includes deciding on the type of study that is best suited to address the research question/aim. There are various types of study (e.g., observational studies, randomised experiments, case studies, etc.),and knowing what type a study was can help to evaluate whether the study was good or not.
-</details>
 
 <br>
 
 <details>
 <summary> <i><u>What is the study type?</u></i> </summary>
-Some common examples include:
+  Some common examples include:
 
-- <b> observational studies </b> - studies where the experimental conditions are not manipulated by the researcher and the data are collected as they become available. For example, surveying a large group of people about their symptoms is observational. So is collecting nasal swabs from all patients in a ward, without having allocated them to different pre-designed treatment groups. Analysing data from registries or records is also observational. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/).
+  - <b> observational studies </b> - studies where the experimental conditions are not manipulated by the researcher and the data are collected as they become available. For example, surveying a large group of people about their symptoms is observational. So is collecting nasal swabs from all patients in a ward, without having allocated them to different pre-designed treatment groups. Analysing data from registries or records is also observational. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [STROBE](https://www.equator-network.org/reporting-guidelines/strobe/).
 
-- <b> randomised experiments </b> - studies where participants are randomly allocated to different pre-designed experimental conditions (these include Randomised controlled trials [RCTs]). For example, to test the effectiveness of a drug, patients in a ward can be randomly allocated to a group that receives the drug in question, and a group that receives standard treatment, and then followed up for signs of improvement. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/).
+  - <b> randomised experiments </b> - studies where participants are randomly allocated to different pre-designed experimental conditions (these include Randomised controlled trials [RCTs]). For example, to test the effectiveness of a drug, patients in a ward can be randomly allocated to a group that receives the drug in question, and a group that receives standard treatment, and then followed up for signs of improvement. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [CONSORT](https://www.equator-network.org/reporting-guidelines/consort/).
 
-- <b> case studies </b> - studies that report data from a single patient or a single group of patients. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [CARE](https://www.equator-network.org/reporting-guidelines/care/).
+  - <b> case studies </b> - studies that report data from a single patient or a single group of patients. For more information on what to look for in a preprint on a study of this type, please consult the relevant reporting guidelines: [CARE](https://www.equator-network.org/reporting-guidelines/care/).
 
-- <b> systematic reviews and meta-analyses </b> - summaries of the findings of already existing, independent studies. For more information on what tolook for in a preprint on a study of this type, please consult the relevant reporting guidelines: [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/).
+  - <b> systematic reviews and meta-analyses </b> - summaries of the findings of already existing, independent studies. For more information on what tolook for in a preprint on a study of this type, please consult the relevant reporting guidelines: [PRISMA](https://www.equator-network.org/reporting-guidelines/prisma/).
 
 </details>
+</details>
+
 
 <br>
 
 <details>
-<summary> <i><u>Let's dig deeper</u></i> </summary>
+<summary> <b><span style="color:#008000">Let's dig deeper!</span></b> </summary>
 If the study type is not explicitly stated, check whether you can identify the study type after reading the paper. 
 
 
@@ -67,29 +68,36 @@ Use the questions below for guidance:
 
 # <span style="color:#8ECC7A">Transparency and Integrity </span>
 
-- Is a protocol, study plan, or registration of the study at hand mentioned?  
-- Is data sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that data will be shared “upon request” does not count. 
-- Is materials sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that materials will be shared “upon request” does not count.
-- Does the article contain an ethics approval statement (e.g., approval granted by institution, or no approval required)?
-- Have conflicts of interest been declared? Declaring that there were none also counts.
-
-<br>
-
+### Is a protocol, study plan, or registration of the study at hand mentioned?  
 <details>
 <summary> <i><u>Why is this important?</u></i> </summary>
 <b> Study protocols, plans, and registrations</b> serve to define a study’s research question, sample, and data collection method. They are usually written before the study is conducted, thus preventing researchers from changing their hypotheses based on their results, which adds credibility. Some study types, like RCT’s, must be registered. 
+</details>
 
+### Is data sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that data will be shared “upon request” does not count. 
+
+### Is materials sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that materials will be shared “upon request” does not count.
+<details>
+<summary> <i><u>Why is this important?</u></i> </summary>
 <b> Sharing data and materials</b> is good scientific practice which allows people to review what was done in the study, and to try to reproduce the results. Materials refer to the tools used to conduct the study, such as code, chemicals, tests, surveys, statistical software, etc. Sometimes, authors may state that data will be “available upon request”, or during review, but that does not guarantee that they will actually share the data when asked, or after the preprint is published.
+</details>
 
+### Does the article contain an ethics approval statement (e.g., approval granted by institution, or no approval required)?
+<details>
+<summary> <i><u>Why is this important?</u></i> </summary>
 Before studies are conducted, they must get <b> approval from an ethical review board</b>, which ensures that no harm will come to the study participants and that their rights will not be infringed. Studies that use previously collected data do not normally need ethical approval. Ethical approval statements are normally found in the methods section.
+</details>
 
+### Have conflicts of interest been declared? Declaring that there were none also counts.
+<details>
+<summary> <i><u>Why is this important?</u></i> </summary>
 Researchers have to <b>declare any conflicts of interest</b> that may have biased the way they conducted their study. For example, the research was perhaps funded by a company that produces the treatment of interest, or the researcher has received payments from that company for consultancy work. If a conflict of interest has not been declared, or if a lack of conflict of interest was declared, but a researcher’s affiliation matches with an intervention used in the study (e.g., the company that produces the drug that is found to be the most effective), that could indicate a potential conflict of interest, and a possible bias in the results. A careful check of the affiliation of the researchers can help identify potential conflicts of interest or other inconsistencies. Conflicts of interests should be declared in a dedicated section along with the contributions of each author to the paper
 </details>
 
 <br>
 
 <details>
-<summary> <i><u>Let's dig deeper</u></i> </summary>
+<summary> <b><span style="color:#008000">Let's dig deeper!</span></b> </summary>
 
 - Can you access the protocol/study plan (e.g., via number or hyperlink)  
 - Can you access at least part of the data (e.g., via hyperlink, or on the preprint server). Not applicable in case of a valid reason for not sharing.  
@@ -117,7 +125,7 @@ No research study is perfect, and it is important that researchers are transpare
 <br>
 
 <details>
-<summary> <i><u>Let's dig deeper</u></i> </summary>
+<summary> <b><span style="color:#008000">Let's dig deeper!</span></b> </summary>
 Check for potential biases yourself. Here are some examples of potential sources of bias: 
 
 1. Check the <b>study’s sample</b> (methods section). Do the participants represent the target population? Testing a drug only on white male British smokers over 50 is probably not going to yield useful results for everyone living in the UK, for example. How many participants were there? There is no one-size-fits-all number of participants that makes a study good, but in general, the more participants, the stronger the evidence.  
