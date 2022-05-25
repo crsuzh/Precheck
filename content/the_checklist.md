@@ -3,6 +3,18 @@ date: "2016-05-05T21:48:51-07:00"
 title: 
 ---
 
+# Introduction
+
+Preprints are manuscripts describing scientific studies that have not been peer-reviewed, that is, checked for quality by an unbiased group of scientists in the same field. Preprints are typically posted online on preprint servers (e.g. BioRxiv, MedRxiv, PsyRxiv) instead of scientific journals. Anyone can access and read preprints freely, but because they are not verified by the scientific community, they can be of lower quality, risking the spread of misinformation. When the COVID-19 pandemic started, a lack of understanding of preprints has led to low-quality research gaining popularity and even infiltrating public policy. Inspired by such events, we have created PRECHECK: a checklist to help you assess the quality of preprints in psychology and medicine, and decide their credibility. This checklist was created with scientifically literate non-specialists in mind, such as students of medicine and psychology, and science journalists. 
+
+The checklist contains 4 items. Read them and the Why is this important? Section underneath each of them. Check if the preprint you are reading fulfills the item’s criteria - if yes, write down a yes for this item. Generally, the more ticks on the checklist your preprint gets, the higher its quality, but this is only a superficial level of assessment. For a thorough, discriminative analysis of a preprint, please also consult the related Let’s dig deeper sections underneath each item. When using the checklist, we recommend that you have both the preprint itself, and the webpage on the preprint server where the preprint was posted at hand. You can also check online whether the preprint has already been peer reviewed and published in a journal. 
+
+The checklist works best for studies with human subjects, using primary data (that the researchers collected themselves) or systematic reviews, meta-analyses and re-analyses of primary data. It is not ideally suited to simulation studies (where the data are computer-generated). In general, if the study sounds controversial, improbable, or too good to be true, we advise you to proceed with caution when reading the study and being especially critical.
+
+
+-------------
+
+# The PRECHECK Checklist
 # <span style="color:#8ECC7A">Research question</span>
 
 ### Is the research question/aim stated?
@@ -74,9 +86,10 @@ Use the questions below for guidance:
 <b> Study protocols, plans, and registrations</b> serve to define a study’s research question, sample, and data collection method. They are usually written before the study is conducted, thus preventing researchers from changing their hypotheses based on their results, which adds credibility. Some study types, like RCT’s, must be registered. 
 </details>
 
-### Is data sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that data will be shared “upon request” does not count. 
+### Is data sharing mentioned? Mentioning any reasons against sharing also counts as a ‘yes’. Mentioning only that data will be shared “upon request” counts as a ‘no’.
 
-### Is materials sharing mentioned? Mentioning any reasons against sharing also counts. Mentioning only that materials will be shared “upon request” does not count.
+
+### Is materials sharing mentioned? Mentioning any reasons against sharing also counts as a ‘yes’. Mentioning only that materials will be shared “upon request” counts as a ‘no’.
 <details>
 <summary> <i><u>Why is this important?</u></i> </summary>
 <b> Sharing data and materials</b> is good scientific practice which allows people to review what was done in the study, and to try to reproduce the results. Materials refer to the tools used to conduct the study, such as code, chemicals, tests, surveys, statistical software, etc. Sometimes, authors may state that data will be “available upon request”, or during review, but that does not guarantee that they will actually share the data when asked, or after the preprint is published.
