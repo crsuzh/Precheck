@@ -6,10 +6,38 @@
     <description>Recent content in Posts on PRECHECK: A checklist to evaluate COVID-19 preprints</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2022 14:00:13 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:13 -0600</lastBuildDate>
     
 	<atom:link href="http://www.precheck.site/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprint upload</title>
+      <link>http://www.precheck.site/2022/08/30/preprint-upload/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:13 -0600</pubDate>
+      
+      <guid>http://www.precheck.site/2022/08/30/preprint-upload/</guid>
+      <description>Our project discussed preprints, so of course we also upload a preprint of our scientific manuscript. We chose MetaArXiv.io as the best location for our work.
+Our preprint &amp;ldquo;Constructing and implementing PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond&amp;rdquo; can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Preparation of scientific manuscript</title>
+      <link>http://www.precheck.site/2022/07/15/preparation-of-scientific-manuscript/</link>
+      <pubDate>Fri, 15 Jul 2022 14:00:13 -0600</pubDate>
+      
+      <guid>http://www.precheck.site/2022/07/15/preparation-of-scientific-manuscript/</guid>
+      <description>We finalised our checklist and fine tuned it using the feedback from the workshops and lectures. Now is the time to write up our results and submit a manuscript for publication. This is what we started in July and will be finished and submitted end of August/beginning of September.</description>
+    </item>
+    
+    <item>
+      <title>Presentation at &#34;fact checking&#34; seminar</title>
+      <link>http://www.precheck.site/2022/05/31/presentation-at-fact-checking-seminar/</link>
+      <pubDate>Tue, 31 May 2022 14:00:13 -0600</pubDate>
+      
+      <guid>http://www.precheck.site/2022/05/31/presentation-at-fact-checking-seminar/</guid>
+      <description>The team at University of Zurich was invited by the &amp;ldquo;Association suisse du journalisme scientifique&amp;rdquo; to give a talk at their Seminar entitled &amp;ldquo;Fact checking for science journalists – how to make sure the story is true&amp;rdquo;. The PRECHECK project was the perfect topic for that seminar so that Rachel and Nora went to Bern and gave a presentation and a small hand-on tutorial. The idea and implementation of the checklist was well received and we got some valuable and positive feedback.</description>
+    </item>
     
     <item>
       <title>Workshops and Teaching</title>
